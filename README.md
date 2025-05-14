@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Execute o script passando o diretório raiz como argumento:
 
 ```bash
-python script.py /caminho/do/diretorio_raiz
+python3 script.py /caminho/do/diretorio_raiz
 ```
 
 ### Saídas Geradas
