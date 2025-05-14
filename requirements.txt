@@ -1,0 +1,6 @@
+pandas
+opencv-python
+datetime
+multiprocess
+subprocess.run
+ffmpeg

@@ -31,8 +31,15 @@ Diretório_Raiz/
 ### Bibliotecas Python
 
 ```bash
-pip install pandas opencv-python
+pip install pandas opencv-python datetime multiprocess subprocess.run ffmpeg
 ```
+
+Ou se preferir:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ### Outras Dependências
 
