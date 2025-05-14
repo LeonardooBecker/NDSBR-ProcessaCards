@@ -1,4 +1,9 @@
 # NDSBR-ProcessaCards
+
+Link de explicação sobre como utilizar o script no youtube:
+
+https://www.youtube.com/watch?v=4o3pmF3Huyc
+
 # Processamento de Dados de GPS e Vídeo para Viagens
 
 Este repositório contém um script Python para processar dados de GPS e vídeos de viagens, gerando planilhas estruturadas e vídeos concatenados por viagem.
