@@ -579,7 +579,7 @@ def main():
     
     max_process = 8 
     gera_planilhas_csv(cards_encontrados, max_process)
-    # concatena_videos_viagens(cards_encontrados, max_process)
+    concatena_videos_viagens(cards_encontrados, max_process)
     
     
     imprime_sumario_erros(sumarizacao_erros)
